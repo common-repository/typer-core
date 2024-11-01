@@ -1,0 +1,29 @@
+
+
+
+.typer-go-pro-section {
+    background: #003ECB;
+    padding-bottom: 20px;
+    text-align: center;
+    .accordion-section-title {
+        font-size: 16px !important;
+        background: transparent !important;
+        color: white !important;
+        border: none !important;
+    }
+}
+.typer-go-pro-button {
+    position: relative;
+    z-index: 10;
+    background: #ffffff !important;
+    border: none !important;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3) !important;
+    color: #003ECB !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    &:hover {
+        box-shadow: none !important;
+    }
+}

@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Typer Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 20:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.3"
+
+#. 1: Plugin name 2: Elementor
+#: inc/seventor/plugin.php:212 dist/typer-core/inc/seventor/plugin.php:212
+#, php-format
+msgid "%1$s requires version %3$s or greater of %2$s plugin."
+msgstr ""
+
+#: inc/go-pro/GoPro.php:73 dist/typer-core/inc/go-pro/GoPro.php:73
+msgid "Activate Typer Pro"
+msgstr ""
+
+#: inc/seventor/plugin.php:116 inc/seventor/plugin.php:127
+#: dist/typer-core/inc/seventor/plugin.php:116
+#: dist/typer-core/inc/seventor/plugin.php:127
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/seventor/plugin.php:215 dist/typer-core/inc/seventor/plugin.php:215
+msgid "Elementor"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enables theme options, importing and others features for Typer Theme"
+msgstr ""
+
+#: inc/seventor/core/library/documents/footer.php:69
+#: dist/typer-core/inc/seventor/core/library/documents/footer.php:69
+msgid "Footer"
+msgstr ""
+
+#: inc/seventor/core/library/documents/header.php:69
+#: dist/typer-core/inc/seventor/core/library/documents/header.php:69
+msgid "Header"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://seventhqueen.com/"
+msgstr ""
+
+#. Author of the plugin
+#: inc/seventor/plugin.php:374
+#: inc/seventor/core/template/source-seventor.php:25
+#: dist/typer-core/inc/seventor/plugin.php:374
+#: dist/typer-core/inc/seventor/core/template/source-seventor.php:25
+msgid "SeventhQueen"
+msgstr ""
+
+#: inc/seventor/plugin.php:214 dist/typer-core/inc/seventor/plugin.php:214
+msgid "Seventor"
+msgstr ""
+
+#. Name of the plugin
+msgid "Typer Core"
+msgstr ""
+
+#: inc/go-pro/GoPro.php:72 dist/typer-core/inc/go-pro/GoPro.php:72
+#, php-format
+msgid "Unleash %s's true potential!"
+msgstr ""
+
+#: inc/seventor/plugin.php:225 dist/typer-core/inc/seventor/plugin.php:225
+msgid "Update Elementor Now"
+msgstr ""

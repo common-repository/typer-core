@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="Typer Core">
+  <domain name="typer-core">
+    <project name="Typer Core" slug="typer-core">
+      <source>
+        <directory>.</directory>
+      </source>
+      <target>
+        <directory>languages</directory>
+      </target>
+      <template>
+        <file>languages/typer-core.pot</file>
+      </template>
+    </project>
+  </domain>
+  <exclude>
+    <directory>node_modules</directory>
+    <directory>inc/carbon-fields</directory>
+  </exclude>
+</bundle>
